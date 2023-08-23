@@ -1,8 +1,11 @@
 ## Hello, there 👋
-#### Me chamo Lucas, estou estudando sobre Front-End atravez do SENAI, atravez do projeto Ford<'Enter>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSansB&show_icons=true&theme=dracula)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSansB&layout=compact&langs-count=168&theme=dracula)
+#### Me chamo Lucas, estou estudando sobre Front-End atravez do SENAI, atravez do projeto Ford< Enter >
 
+<div>
+ <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LucasSansB&show_icons=true&theme=dracula">
+ <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSansB&layout=compact&langs-count=168&theme=dracula">
+</div>
+<br>
 <div>
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -10,12 +13,10 @@
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"/>
 </div>
-
-
-
-
+<br>
+<br>
 <div>
-Meu usuário do LinkedIn:
+Meu LinkedIn: 
 <a href="https://www.linkedin.com/in/lucas-santos-barbosa-9309aa177"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>
 </div>
