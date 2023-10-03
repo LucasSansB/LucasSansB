@@ -1,5 +1,5 @@
 ## Hello, there 👋
-#### Me chamo Lucas, estou estudando Front-End através do SENAI, pelo projeto Ford <'Enter'>
+#### Me chamo Lucas, estou estudando Front-End através do SENAI, pelo projeto Ford < 'Enter' >
 
 <div>
  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LucasSansB&show_icons=true&theme=dracula">
